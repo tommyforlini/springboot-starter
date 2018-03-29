@@ -1,4 +1,4 @@
-package com.tommyforlini.gradlestarter;
+package com.tommyforlini.springbootstarter;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

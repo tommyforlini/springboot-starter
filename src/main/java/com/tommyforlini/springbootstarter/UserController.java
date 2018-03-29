@@ -1,4 +1,4 @@
-package com.tommyforlini.gradlestarter;
+package com.tommyforlini.springbootstarter;
 
 import java.util.ArrayList;
 import java.util.List;
